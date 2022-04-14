@@ -1,5 +1,5 @@
 # Todo App
-[Link](https://csb-bxpsmf.netlify.app/)
+[Page](https://csb-bxpsmf.netlify.app/)
 
 ## About
 This is a Todo list to manage tasks the user need to do.
