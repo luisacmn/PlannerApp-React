@@ -1,5 +1,5 @@
 # Planner App
-[Link](https://csb-o38857.netlify.app/)
+[Link](https://csb-bxpsmf.netlify.app/)
 
 ## About
 This is a Planner in a todo list format
